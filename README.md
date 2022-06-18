@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @simoonadj
 - 👀 I’m interested in QA Testing
 - 🌱 I’m currently learning ISTQB 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Manual testing
 - 📫 Contact me on simoonadj@gmail.com
 
 <!---
